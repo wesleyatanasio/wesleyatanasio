@@ -35,3 +35,5 @@ If you want to get in touch with me, you can find me on the following social net
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)[link to my profile](https://www.linkedin.com/in/wesley-atanasio/)
 
+
+![](/giphy.gif)
