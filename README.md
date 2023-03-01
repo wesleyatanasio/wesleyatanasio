@@ -33,5 +33,5 @@ Here are some programming languages and technologies that I have experience with
 
 If you want to get in touch with me, you can find me on the following social networks:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([link para o perfil do LinkedIn](https://www.linkedin.com/in/wesley-atanasio/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)[link to my profile](https://www.linkedin.com/in/wesley-atanasio/)
 
